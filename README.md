@@ -1,2 +1,2 @@
 # Writeups
-Personal writes for Blue and Red Teams
+Personal writeups for Blue and Red Team challenges
