@@ -4,6 +4,7 @@
 ### Forensics
 [Operation Orchid - 400](./Forensics/Operation%20Orchid/README.md)</br>
 [Sidechannel - 400](./Forensics/Sidechannel/README.md)</br>
+[Eavesdrop - 300](./Forensics/Eavesdrop%20-%20300/README.md)</br>
 
 ### Reverse Engineering
 [Unpackme - 300](./Reverse%20Engineering/README.md)</br>
